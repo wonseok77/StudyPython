@@ -11,3 +11,4 @@ for x in range(2, 10):
         print(f'{x}x{y}={x*y:2d}', end = ' ')
     print() # 단마다 줄 맞추기 위해서    
 
+
