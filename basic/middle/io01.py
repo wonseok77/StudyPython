@@ -1,5 +1,17 @@
-# 입출력
+#  입출력
 
-number = int(input('수를 입력하세요 : '))
+# number = int(input('수를 입력하세요 : '))
 
-print(number * 10)
+# print(number * 10)
+
+
+# 두개의 값을 입력받아 두개의 변수에 나눠담기
+# x, y = map(int,input('두 수를 입력하세요(구분자는 /) > ').split('/'))
+
+# print(x * y)
+
+
+greeting = "Hello, I'm a teacher. \"bye~\" \\"
+print(greeting)
+
+
